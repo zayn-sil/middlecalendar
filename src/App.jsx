@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import React, { useState, useEffect, useMemo } from 'react';
 import { 
   ChevronLeft, 
   ChevronRight, 
@@ -812,3 +811,4 @@ export default function App() {
     </div>
   );
 }export default function App() { … }
+
